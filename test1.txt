@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0C4C-E558
+
+ Directory of C:\Users\kdkas\Desktop\My project
+
+08/28/2019  10:20 AM    <DIR>          .
+08/28/2019  10:20 AM    <DIR>          ..
+08/28/2019  10:20 AM               120 test1.txt
+               1 File(s)            120 bytes
+               2 Dir(s)   2,646,929,408 bytes free
